@@ -1,16 +1,20 @@
 # Muhammed Mufad Ambhalathuveetil
 
-Data Analyst with 3+ years across SQL, Python, and AWS, building operational and product analytics that hold up under real business questions — not just dashboards. Currently completing an M.Sc. in AI & Data Science in Germany.
+**Data Scientist** · M.Sc. Artificial Intelligence & Data Science (TH Deggendorf, Germany, 2026)
 
-## What I work with
-`Python` `SQL` `Power BI (DAX, Power Query)` `AWS (S3, Glue, Athena)` `Snowflake` `Statistical Testing & A/B Analysis`
+I build analytics and machine learning that answer a business question end to end: from raw data and SQL pipelines to models with honest uncertainty and a decision someone can act on.
 
-## Currently building
-A product/decision analytics case study — experiment design, regression with covariates, and a recommendation memo, modelled on a real support-experience scenario. Repo goes live here once it's done.
+### Experience
+- **Data Scientist Intern & Thesis Researcher, Farmtec a.s., Czech Republic (2024–2025)**
+  Built a predictive model for estrus detection in cattle from 2M+ sensor records (ROC-AUC 0.983).
+- **Programmer Analyst - Data Analytics, Cognizant, India (2021–2023)**
+  AWS data pipelines and PySpark validation automation for insurance and retail clients; 120+ SQL queries and Power BI dashboards for enterprise reporting.
 
-## Background
-- Data Scientist Intern & Thesis Researcher — Farmtec a.s., Czech Republic (2024–2025): built a predictive model on 2M+ sensor records, ROC-AUC 0.983
-- Programmer Analyst, Data Analytics — Cognizant India (2021–2023): AWS pipelines, Power BI dashboards, 120+ SQL queries across enterprise reporting
+### Tools
+`Python` `SQL` `PySpark` `AWS (S3, Glue, Athena)` `Snowflake` `Power BI (DAX, Power Query)` `Statistical testing`
 
-## Contact
+### Currently building
+**Order-to-decision pipeline** on public e-commerce data: DuckDB, dbt, forecasting, inventory simulation and A/B analysis, served with FastAPI. Link added when the first module runs.
+
+### Contact
 [LinkedIn](https://www.linkedin.com/in/muhammedmufad)
